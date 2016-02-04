@@ -14,6 +14,17 @@ body {
     background-position: center top;
 }
 
+img {
+    width: 300px;
+    height: 230px;
+}
+
+#table1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
 a {
     color: inherit;
     text-decoration: none;
@@ -21,7 +32,7 @@ a {
 }
 
 a:hover {
-    color: #28a2a2;
+    color: #00002e;
 }
 
 ul {
@@ -34,7 +45,7 @@ li {
 }
 
 li a.active {
-    color: #28a2a2;
+    color: #00002e;
 }
 
 
@@ -88,7 +99,7 @@ header {
 header .logo {
     position: absolute;
     left: 20px;
-    color: #28a2a2;
+    color: #00002e;
     font-weight: 600;
 }
 

@@ -42,7 +42,7 @@ a {
 }
 
 a:hover {
-    color: #28a2a2;
+    color: #00002e;
 }
 
 ul {
@@ -55,7 +55,7 @@ li {
 }
 
 li a.active {
-    color: #28a2a2;
+    color: #00002e;
 }
 
 
@@ -109,7 +109,7 @@ header {
 header .logo {
     position: absolute;
     left: 20px;
-    color: #28a2a2;
+    color: #00002e;
     font-weight: 600;
 }
 
