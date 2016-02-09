@@ -17,11 +17,11 @@
             <ul>
                 <li><a href="home.html" >Home</a></li>
                 <li><a href="about.html">About</a></li>
-                <li><a href="brownies.html">Brownies</a></li>
-                <li><a href="cakes.html">Cakes</a></li>
-                <li><a href="cookies.html" class="active">Cookies</a></li>
-                <li><a href="chocolates.html">Chocolates</a></li>
-                <li><a href="pies.html">Pies</a></li>
+                <li><a href="brownies.php">Brownies</a></li>
+                <li><a href="cakes.php">Cakes</a></li>
+                <li><a href="cookies.php" class="active">Cookies</a></li>
+                <li><a href="chocolates.php">Chocolates</a></li>
+                <li><a href="pies.php">Pies</a></li>
                 <li><a href="#">Cart</a></li>
             </ul>
         </nav>
