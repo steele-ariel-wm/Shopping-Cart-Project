@@ -7,6 +7,8 @@ $stmt->execute(array(':productsId'=>$_GET['productsId']));
 $results = $stmt->fetchAll();
 ?>
 
+
+
 <?php
 foreach($results as $product){
 

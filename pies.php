@@ -27,7 +27,6 @@
         </nav>
     </header>
 </div>
-
 <center><table id="table1">
         <tr><td><a href="items.php?productsId=37"><img id="img1" src="https://36.media.tumblr.com/8e56626ab0eee223eb62a173c5d8513b/tumblr_nxxnwizd971tiegzpo1_500.jpg"></a></td>
             <td><a href="items.php?productsId=38"><img id="img2" src="http://www.wellnesswithkristen.com/wp-content/uploads/2015/09/tumblr_mbj8jki5h21rezdjko1_500.jpg"></a></td>
@@ -38,8 +37,7 @@
         <tr><td><a href="items.php?productsId=43"><img id="img7" src="https://s-media-cache-ak0.pinimg.com/236x/65/b0/7e/65b07e50b7205175a3b6d349816128e9.jpg"></a></td>
             <td><a href="items.php?productsId=44"><img id="img8" src="https://36.media.tumblr.com/b76f8c89af1057cd05fc531da3ba734c/tumblr_nzi7nnqzUT1sn5m44o1_500.jpg"></a></td>
             <td><a href="items.php?productsId=45"><img id="img9" src="http://40.media.tumblr.com/e37452f96dc8777dc627da913c311fc5/tumblr_inline_nxj1bzUYdD1tfs3ai_1280.jpg"></a></td></tr>
-    </table></center>
-
+    </table>
 <footer>
     <a href="http://dessertsbox.com" target="_blank">dessertsbox.com</a>
     <br/>
