@@ -13,13 +13,14 @@ $password = 'root';
 try {
     $dbh = new PDO("mysql:host=$hostname;dbname=dessertBox", $username, $password);
     /*** echo a message saying we have connected ***/
-    echo 'Connected to database';
+    //echo 'Connected to database';
 }
 catch(PDOException $e)
 {
     echo $e->getMessage();
 }
 
+session_start ();
 ?>
 
 
