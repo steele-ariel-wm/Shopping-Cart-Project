@@ -22,7 +22,8 @@
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="chocolates.php" class="active">Chocolates</a></li>
                 <li><a href="pies.php">Pies</a></li>
-                <li><a href="#">Cart</a></li>
+                <li><a href="cart.php">Cart</a></li>
+                <li><a href="contactus.html"> Contact </a></li>
             </ul>
         </nav>
     </header>

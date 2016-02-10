@@ -10,10 +10,6 @@
 </head>
 <body>
 
-<?php
-// $results = select * from products where category = $_GET['category'];
-?>
-
 <div class="overlay8"></div>
 <div class="hover-space">
     <header>
@@ -27,15 +23,13 @@
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="chocolates.php">Chocolates</a></li>
                 <li><a href="pies.php" class="active">Pies</a></li>
-                <li><a href="#">Cart</a></li>
+                <li><a href="cart.php">Cart</a></li>
+                <li><a href="contactus.html"> Contact </a></li>
             </ul>
         </nav>
     </header>
 </div>
 <center><table id="table1">
-        <?php
-//        foreach($results as $result){
-        ?>
         <tr><td><a href="items.php?productsId=37"><img id="img1" src="https://36.media.tumblr.com/8e56626ab0eee223eb62a173c5d8513b/tumblr_nxxnwizd971tiegzpo1_500.jpg"></a></td>
             <td><a href="items.php?productsId=38"><img id="img2" src="http://www.wellnesswithkristen.com/wp-content/uploads/2015/09/tumblr_mbj8jki5h21rezdjko1_500.jpg"></a></td>
             <td><a href="items.php?productsId=39"><img id="img3" src="http://41.media.tumblr.com/fb86f80eb08e3b4200f7c477e8c305df/tumblr_n7r3qiyo9x1sidp68o2_r1_1280.jpg"></a></td></tr>

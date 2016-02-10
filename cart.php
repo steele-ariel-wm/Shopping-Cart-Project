@@ -1,9 +1,5 @@
 <?php
 include_once "connect.php";
-
-foreach($_SESSION['cart'] as $item){
-    echo $item['productName'] . "</br>";
-}
 ?>
 
 <!DOCTYPE html>
@@ -17,6 +13,7 @@ foreach($_SESSION['cart'] as $item){
     <title></title>
 </head>
 <body>
+<div class="overlay"></div>
 <div class="hover-space">
     <header>
         <div class="logo">Desserts Box</div>
@@ -30,11 +27,21 @@ foreach($_SESSION['cart'] as $item){
                 <li><a href="chocolates.php">Chocolates</a></li>
                 <li><a href="pies.php">Pies</a></li>
                 <li><a href="cart.php" class="active">Cart</a></li>
+                <li><a href="contactus.html"> Contact </a></li>
             </ul>
         </nav>
     </header>
 </div>
+<center>
+<div id="cartItems">
+    <?php
+    foreach($_SESSION['cart'] as $item){
+        echo $item['productName'] . " - " . $item['productsPrice'] . "</br>";
 
+    }
+    ?>
+</div>
+</center>
 <footer>
     <a href="http://dessertsbox.com" target="_blank">dessertsbox.com</a>
     <br/>
