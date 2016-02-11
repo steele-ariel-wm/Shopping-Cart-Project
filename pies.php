@@ -25,6 +25,7 @@
                 <li><a href="pies.php" class="active">Pies</a></li>
                 <li><a href="cart.php">Cart</a></li>
                 <li><a href="contactus.html"> Contact </a></li>
+                <li><a href="faq.html">FAQ</a></li>
             </ul>
         </nav>
     </header>

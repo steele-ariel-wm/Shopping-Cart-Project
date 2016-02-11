@@ -28,6 +28,7 @@ include_once "connect.php";
                 <li><a href="pies.php">Pies</a></li>
                 <li><a href="cart.php" class="active">Cart</a></li>
                 <li><a href="contactus.html"> Contact </a></li>
+                <li><a href="faq.html">FAQ</a></li>
             </ul>
         </nav>
     </header>
@@ -39,6 +40,9 @@ include_once "connect.php";
         echo $item['productName'] . " - " . $item['productsPrice'] . "</br>";
 
     }
+
+
+
     ?>
 </div>
 </center>
