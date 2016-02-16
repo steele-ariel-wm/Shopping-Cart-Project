@@ -22,7 +22,7 @@
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="chocolates.php">Chocolates</a></li>
                 <li><a href="pies.php">Pies</a></li>
-                <li><a href="#">Cart</a></li>
+                <li><a href="cart.php">Cart</a></li>
                 <li><a href="contactus.html"> Contact </a></li>
                 <li><a href="faq.html">FAQ</a></li>
             </ul>
